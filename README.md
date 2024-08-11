@@ -65,7 +65,8 @@ Open your browser and go to http://localhost:3000 to view the application.
     Footer.js: Shows the subtotal and provides checkout options.
 
 9. **Database Schema**
-     {
+    ```bash
+    {
     "_id": <ObjectId>,
     "name": "Product Name",
     "brand": "Brand Name",
