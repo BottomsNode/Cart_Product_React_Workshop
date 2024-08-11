@@ -30,22 +30,33 @@ A React application for managing a shopping cart with product listings, integrat
 2. **Install Dependencies**
     *Frontend:*
     Navigate to the frontend directory (if you have separate directories for frontend and backend) and install dependencies:
-    cd frontend
-    npm install
+   ```bash
+   cd frontend
+   npm install
+   ```
 
     *Backend:*
     Navigate to the backend directory (if applicable) and install dependencies:
-    cd backend
-    npm install
 
-3. **Start the Backend Server**
-    npm run start    
+   ```bash
+   cd backend
+   npm install
+   ```
+
+4. **Start the Backend Server**
+
+   ```bash
+   npm run start
+   ```   
    
-5. **Start the Frontend Development Server**
+6. **Start the Frontend Development Server**
+
+   ```bash
    npm run dev
+   ```
 Open your browser and go to http://localhost:3000 to view the application.
 
-6. **Components**
+8. **Components**
     App.js: The main component that renders the Cart component.
     Cart.js: Manages the state of products and integrates with Header, ProductList, and Footer.
     ProductList.js: Displays a list of products using CartItem components.
@@ -53,7 +64,7 @@ Open your browser and go to http://localhost:3000 to view the application.
     Header.js: Displays the header of the application.
     Footer.js: Shows the subtotal and provides checkout options.
 
-7. **Database Schema**
+9. **Database Schema**
      {
     "_id": <ObjectId>,
     "name": "Product Name",
@@ -62,21 +73,22 @@ Open your browser and go to http://localhost:3000 to view the application.
     "qty": Number,
     "image": "/path/to/image.jpg"
    }
+   ```
 
-8. **API Endpoints**
+11. **API Endpoints**
    GET /products  : Retrieve all products.
    POST /products : Add a new product.
    PUT /products/ :Update an existing product by ID.
    DELETE /products/ : Delete a product by ID.
 
-9. **Acknowledgements**
+12. **Acknowledgements**
     React
     Vite
     FontAwesome
     MongoDB
     Express.js
 
-10. ## Customization
+13. ## Customization
 
 - Replace BottomsNode with your GitHub repository URL.
 - Update the paths and commands according to your project structure.
