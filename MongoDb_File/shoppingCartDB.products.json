@@ -1,0 +1,122 @@
+[{
+  "_id": 1,
+  "name": "TUF A15",
+  "brand": "Asus",
+  "price": 75000,
+  "qty": 3,
+  "image": "/images/laptop1.jpg"
+},
+{
+  "_id": 2,
+  "name": "Lenovo Legion",
+  "brand": "Lenovo",
+  "price": 95000,
+  "qty": 10,
+  "image": "/images/laptop2.jpg"
+},
+{
+  "_id": 3,
+  "name": "HP Pavilion",
+  "brand": "HP",
+  "price": 65000,
+  "qty": 5,
+  "image": "/images/laptop3.jpg"
+},
+{
+  "_id": 4,
+  "name": "Acer Predator",
+  "brand": "Acer",
+  "price": 88000,
+  "qty": 7,
+  "image": "/images/laptop4.jpg"
+},
+{
+  "_id": 5,
+  "name": "Dell Inspiron",
+  "brand": "Dell",
+  "price": 70000,
+  "qty": 8,
+  "image": "/images/laptop5.jpg"
+},
+{
+  "_id": 6,
+  "name": "MacBook Pro",
+  "brand": "Apple",
+  "price": 150000,
+  "qty": 4,
+  "image": "/images/laptop6.jpg"
+},
+{
+  "_id": 7,
+  "name": "MSI Stealth",
+  "brand": "MSI",
+  "price": 120000,
+  "qty": 6,
+  "image": "/images/laptop7.jpg"
+},
+{
+  "_id": 8,
+  "name": "Razer Blade",
+  "brand": "Razer",
+  "price": 180000,
+  "qty": 3,
+  "image": "/images/laptop8.jpg"
+},
+{
+  "_id": 9,
+  "name": "Acer Nitro 5",
+  "brand": "Acer",
+  "price": 68000,
+  "qty": 12,
+  "image": "/images/laptop9.jpg"
+},
+{
+  "_id": 10,
+  "name": "Asus ZenBook",
+  "brand": "Asus",
+  "price": 85000,
+  "qty": 9,
+  "image": "/images/laptop10.jpg"
+},
+{
+  "_id": 11,
+  "name": "HP Spectre x360",
+  "brand": "HP",
+  "price": 135000,
+  "qty": 5
+},
+{
+  "_id": 12,
+  "name": "Dell XPS 13",
+  "brand": "Dell",
+  "price": 140000,
+  "qty": 4
+},
+{
+  "_id": 13,
+  "name": "Lenovo ThinkPad X1",
+  "brand": "Lenovo",
+  "price": 160000,
+  "qty": 7
+},
+{
+  "_id": 14,
+  "name": "MacBook Air",
+  "brand": "Apple",
+  "price": 120000,
+  "qty": 8
+},
+{
+  "_id": 15,
+  "name": "Samsung Galaxy Book",
+  "brand": "Samsung",
+  "price": 90000,
+  "qty": 6
+},
+{
+  "_id": 16,
+  "name": "Asus ROG Zephyrus",
+  "brand": "Asus",
+  "price": 155000,
+  "qty": 2
+}]
